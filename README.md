@@ -5,7 +5,7 @@
 [🛠️ **Projects**](src/EDA/patient_visualization/readme.md) 
 
 <p align="center">
-<img src="deeplearning.png" width="95%">
+<img src="dlcover.png" width="95%">
 </p>
 
 </div>
