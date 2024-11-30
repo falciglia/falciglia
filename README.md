@@ -9,11 +9,12 @@
 <img src="dlcover.png" width="95%">
 </p>
 
+**Deep Learning for Neuroengineering**
 </div>
 
 # About Me 🧠
 
-I hope to make my own contribution to medical scientific research in my future. Electronic and AI&R engineering background to tackle challenges in medicine, neuroscience and neuroengineering. New decoding systems of CNS signals, a better understanding of the human brain, the mechanics behind memory, reasoning, knowledge and deduction is the breakthrough that people need today.
+I hope to make my own contribution to medical scientific research. Electronic and AI&R engineering background to tackle challenges in medicine, neuroscience and neuroengineering. New decoding systems of CNS signals, a better understanding of the human brain, the mechanics behind memory, reasoning, knowledge and deduction is the breakthrough that people need today.
 
 
 # Interests🧐
