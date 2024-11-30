@@ -1,8 +1,8 @@
 <div align="center">
 
-[👋 **Bio**]() ________________________
-[📰 **Papers**](https://doi.org/10.1101/2024.11.25.24317759) ________________________
-[🎙️ **Conferences**](linear_prediction/linear_visualization/readme.md) ________________________
+[👋 **Bio**]() |
+[📰 **Papers**](https://doi.org/10.1101/2024.11.25.24317759) |
+[🎙️ **Conferences**](linear_prediction/linear_visualization/readme.md) |
 [🛠️ **Projects**](src/EDA/patient_visualization/readme.md) 
 
 <p align="center">
