@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**falciglia/falciglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[📰 **Papers**](https://doi.org/10.1101/2024.11.25.24317759) |
+[🎙️ **Conferences**](linear_prediction/linear_visualization/readme.md) |
+[🛠️ **Projects**](src/EDA/patient_visualization/readme.md) 
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="deeplearning.png" width="95%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+# About Me 🧠
+
+I hope to make my own contribution to medical scientific research in my future. Electronic and AI&R engineering background to tackle challenges in medicine, neuroscience and neuroengineering. New decoding systems of CNS signals, a better understanding of the human brain, the mechanics behind memory, reasoning, knowledge and deduction is the breakthrough that people need today.
+
+
+
