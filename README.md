@@ -1,10 +1,10 @@
 <div align="center">
 
-[👋 **Bio**]() |
-[**Projects**🛠️](src/EDA/patient_visualization/readme.md) 
+[👋 **Bio**](Bio/readme.md) |
+[**Projects**🛠️](Projects/readme.md) 
 
-[📰 **Papers**](https://doi.org/10.1101/2024.11.25.24317759) |
-[**Conferences**🎙️](linear_prediction/linear_visualization/readme.md) 
+[📰 **Papers**](Papers/readme.md) |
+[**Conferences**🎙️](Conferences/readme.md) 
 
 <p align="center">
 <img src="dlcover.png" width="95%">
