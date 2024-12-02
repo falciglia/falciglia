@@ -10,7 +10,7 @@
 <img src="dlcover.png" width="95%">
 </p>
 
-**Deep Learning for Neuroengineering**
+***Deep Learning for Neuroengineering***
 </div>
 
 # About Me 🧠
