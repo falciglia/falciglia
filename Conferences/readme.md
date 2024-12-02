@@ -6,6 +6,13 @@
 
 # 🎙️ Conferences
 
+</div>
+
+- **2nd Congress of the Deep Brain Stimulation Society** - Istanbul, Turkey *(May 29-31, 2024)* <br>
+  Oral presentation. [[Program & Abstract](DBSbook.pdf)] [[Presentation](presentation.pdf)]
+  
+<div align="center">
+  
 ---
 ***Please, reach out to collaborate!***
 
