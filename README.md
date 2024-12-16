@@ -10,7 +10,9 @@
 <img src="dlcover.png" width="95%">
 </p>
 
-***Deep Learning for Neuroengineering***
+**Deep Learning for Neuroengineering**
+
+***"It don't mean a thing if it ain't got that swing"***
 </div>
 
 # About Me 🧠
