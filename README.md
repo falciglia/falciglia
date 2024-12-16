@@ -1,10 +1,13 @@
 <div align="center">
 
 [👋 **Bio**](Bio/readme.md) |
-[**Projects**🛠️](Projects/readme.md) 
-
+[**Projects**🛠️](Projects/readme.md) |
 [📰 **Papers**](Papers/readme.md) |
 [**Conferences**🎙️](Conferences/readme.md) 
+
+***
+
+***"It don't mean a thing if it ain't got that swing"***
 
 <p align="center">
 <img src="dlcover.png" width="95%">
@@ -12,7 +15,8 @@
 
 **Deep Learning for Neuroengineering**
 
-***"It don't mean a thing if it ain't got that swing"***
+***
+
 </div>
 
 # About Me 🧠
