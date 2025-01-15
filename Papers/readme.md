@@ -12,7 +12,7 @@
   | <👨‍💻[code.](https://github.com/falciglia/Sant-Anna-Pisa/tree/main/LAURA)> <br>
   S.Falciglia#, L.Caffi#, C.Baiata, C.Palmisano, I.U.Isaias* and A.Mazzoni*. [MedRxiv 2024]
 
-- 📖 [16. Basal ganglia network dysfunctions and deep brain stimulation](https://www.torrossa.com/en/resources/an/5842050#page=185)<br>
+- 📖 [16. Basal ganglia network dysfunctions and deep brain stimulation](https://www.torrossa.com/en/resources/an/5842050#page=185) | <🔎[chapter.]()> <br>
   S.Falciglia*, A.Kaymak*, A.Mazzoni. *Neurotechnologies to understand and restore the nervous system*, Pàtron Editore, 2024
 
 - 📄 [Learning visual stimulus-evoked EEG manifold for neural image classification.](https://www.sciencedirect.com/science/article/pii/S0925231224004259)
