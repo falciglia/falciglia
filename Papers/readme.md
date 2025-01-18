@@ -18,7 +18,7 @@
 
 - 📄 [Learning visual stimulus-evoked EEG manifold for neural image classification.](https://www.sciencedirect.com/science/article/pii/S0925231224004259)
   | <👨‍💻[code.](https://github.com/falciglia/Sapienza-Rome/tree/main/Neural%20Visual%20Decoding%20with%20EEG)>
-  <🎧 [podcast.]()> <br>
+  <🎧 [podcast.](https://github.com/falciglia/Sapienza-Rome/raw/refs/heads/main/Neural%20Visual%20Decoding%20with%20EEG/podcast_RieManiSpectraNet.wav)> <br>
   S.Falciglia, F.Betello, S.Russo, C.Napoli#. Neurocomputing 2024.
 
 ---
